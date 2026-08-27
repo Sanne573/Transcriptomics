@@ -4,12 +4,18 @@ UMC Utrecht. (z.d.). Reumatoïde artritis - oorzaken en behandeling. https://www
 Zhang, F., et al. (2019). Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry. Nature Immunology, 20(7), 928–942. https://doi.org/10.1038/s41590-019-0378-1
 Venken, K., & Elewaut, D. (2025). Roken : een trigger voor T-cel-autoreactiviteit bij reumatoïde artritis? https://biblio.ugent.be/publication/01KABFDS644H38R9W212GM96RC
 
-Walsh, A. M., Wechalekar, M. D., Guo, Y., Yin, X., Weedon, H., Proudman, S. M., Smith, M. D., & Nagpal, S. (2017b). Triple DMARD treatment in early rheumatoid arthritis modulates synovial T cell activation and plasmablast/plasma cell differentiation pathways. PLoS ONE, 12(9), e0183928. https://doi.org/10.1371/journal.pone.0183928 
-Guo, Y., Walsh, A. M., Fearon, U., Smith, M. D., Wechalekar, M. D., Yin, X., & collega's. (2017). CD40L-dependent pathway is active at various stages of rheumatoid arthritis disease progression. Journal of Immunology, 198(11), 4490–4501. https://doi.org/10.4049/jimmunol.1601988 
+Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., & Aletaha, D. (2019). Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns. PLoS ONE, 14(7), e0219698. https://doi.org/10.1371/journal.pone.0219698
+Morgan, M., & Ramos, M. (2018). BiocManager: Access the Bioconductor Project Package Repository [Dataset]. https://doi.org/10.32614/cran.package.biocmanager
 Homo sapiens genome assembly GRCh38.p14. (z.d.). NCBI. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/  
+Liao, Y., Smyth, G. K., & Shi, W. (2019). The R package Rsubread is easier, faster, cheaper and better for alignment and quantification of RNA sequencing reads. Nucleic Acids Research, 47(8), e47. https://doi.org/10.1093/nar/gkz114
+Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biology, 15, 550. https://doi.org/10.1186/s13059-014-0550-8
+Blighe, K., Rana, S., & Lewis, M. (2025). EnhancedVolcano: Publication-ready volcano plots with enhanced colouring and labeling (Version 1.28.2) [R package]. GitHub. https://github.com/kevinblighe/EnhancedVolcano
 MetwareBio. (2026, 3 juni). How to Perform Gene Ontology (GO) Enrichment Analysis. MetwareBio. https://www.metwarebio.com/go-enrichment-analysis-clusterprofiler-guide/ 
+Yu, G. (2024). Thirteen years of clusterProfiler. The Innovation, 5(6), 100722. https://doi.org/10.1016/j.xinn.2024.100722
+Yu, G. (2026). enrichplot: Visualization of functional enrichment result (Version 1.30.5) [R package]. https://yulab-smu.top/contribution-knowledge-mining/
 KEGG GENOME: Homo sapiens (human). (z.d.). https://www.kegg.jp/kegg-bin/show_organism?menu_type=pathway_maps&org=hsa
- 
+Luo, W., & Brouwer, C. (2013). Pathview: An R/Bioconductor package for pathway-based data integration and visualization. Bioinformatics, 29(14), 1830–1831. https://doi.org/10.1093/bioinformatics/btt285
+
 Morrison, D. K. (2012). MAP kinase pathways. Cold Spring Harbor Perspectives in Biology, 4(11), a011254. https://doi.org/10.1101/cshperspect.a011254
 Xie, J., Sun, S., Li, Q., Chen, Y., Huang, L., Wang, D., & Wang, Y. (2025). MAPK/ERK signaling pathway in rheumatoid arthritis: mechanisms and therapeutic potential. PeerJ, 13, e19708. https://doi.org/10.7717/peerj.19708
 Lee, S., Boyle, D. L., Berdeja, A., & Firestein, G. S. (2012). Regulation of inflammatory arthritis by the upstream kinase mitogen activated protein kinase kinase 7 in the c-Jun N-Terminal kinase pathway. Arthritis Research & Therapy, 14(1), R38. https://doi.org/10.1186/ar3750
