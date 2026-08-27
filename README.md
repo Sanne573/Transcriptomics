@@ -4,7 +4,7 @@
 - `Data_beheer` - Hierin staat beschreven hoe de data is beheerd
 - `FLowschema` - Hierin staat het flowschema wat gebruikt is in de methode
 -  `Resultaten` - Hierin staan de figuren die zijn gebruikt in de resultaten
-- `Bronnen` - Hierin staan de bronnen die gebruikt zijn over het gehele verslag
+- `Bronnen` - Hierin staan de bronnen die gebruikt zijn over het gehele verslag, ook staat hier in de AI disclaimer
 - `README.md` - Het document met het verslag er in
 - `script` - Hierin staat het script hoe de transcriptomics analyse is uitgevoerd
 
