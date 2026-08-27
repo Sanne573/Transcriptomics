@@ -54,13 +54,13 @@ Om de betrokken signaleringsmechanismen verder te onderzoeken, zijn de T- en B-c
   <img src="Resultaten/hsa04660.pathview.png" alt="Pathway T-cel" width="500"/>
 </p>
 
-*Figuur 4. KEGG pathway kaart van "T cell signaling pathway". De rood gekleurde genen zijn opgereguleerd en de groen gekleurde genen zijn neerwaarts gereguleerd ten opzichte van de controle groep.* 
+*Figuur 4. KEGG-pathwaykaart van de T cell receptor signaling pathway. De rood gekleurde genen zijn opgereguleerd en de groen gekleurde genen zijn neerwaarts gereguleerd ten opzichte van de controlegroep. De kleurintensiteit geeft de mate van verandering in genexpressie weer.* 
 
 <p align="center">
   <img src="Resultaten/hsa04662.pathview.png" alt="Pathway B-cel" width="500"/>
 </p>
 
-*Figuur 5. KEGG pathway kaart van "B cell signaling pathway". De rood gekleurde genen zijn opgereguleerd en de groen gekleurde genen zijn neerwaarts gereguleerd ten opzichte van de controle groep.* 
+*Figuur 5. KEGG-pathwaykaart van de B cell receptor signaling pathway. De rood gekleurde genen zijn opgereguleerd en de groen gekleurde genen zijn neerwaarts gereguleerd ten opzichte van de controlegroep. De kleurintensiteit geeft de mate van verandering in genexpressie weer.*
 
 
 ## Conclusies
