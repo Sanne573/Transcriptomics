@@ -66,7 +66,11 @@ Om de betrokken signaleringsmechanismen verder te onderzoeken, zijn de T- en B-c
 
 ## Conclusies
 Uit de transcriptomicsanalyse blijkt dat er 5119 genen differentieel tot expressie wordt gebracht. Deze genen zijn betrokken bij verschillende biologische processen, waarbij vooral immuunrespons, celgroei, differentiatie, overleving en ontstekingsreacties differentieel gereguleerd zijn. Dit wijst op een verstoring van processen die betrokken zijn bij het functioneren en activeren van immuuncellen. Daarom zijn de KEGG-pathways T cell receptor signaling pathway en B cell receptor signaling pathway verder onderzocht.
+
 Binnen beide pathways is gekeken naar het MAPK-pathway. Dit pathway is onder andere betrokken bij celgroei, differentiatie en de productie van ontstekingscytokinen (Morrison, 2012). De genen Ras, MEK1/2 en ERK zijn in beide pathways upgereguleerd. Deze genen dragen bij aan groei, differentiatie en overleving van cellen (Xie et al., 2025). De verhoogde expressie kan hierdoor bijdragen aan een verhoogde activiteit, groei en overleving van T- en B-cellen.
+
 Binnen de T cell receptor signaling pathway is daarnaast het gen MKK7 sterk upgereguleerd. MKK7 is betrokken bij signaalroutes die de productie van ontstekingscytokinen stimuleren. Een verhoogde activiteit hiervan kan in synoviaal weefsel bijdragen aan ontsteking in de gewrichten (Lee et al., 2012).
+
 Gezamenlijk wijzen deze resultaten erop dat vooral immuunactivatie en ontstekingsprocessen verstoord zijn. De disregulatie van het MAPK-pathway kan hierdoor bijdragen aan het ontstaan en in stand houden van de chronische ontstekingsreactie bij reumatoïde artritis.
+
 In een volgend onderzoek zou gekeken kunnen worden naar andere immuun pathways. Of andere onderdelen in dit onderzoek uitgezochte pathways. Er zijn veel meer genen die up of down gereguleerd zijn en verder onderzoek kunnen gebruiken.
