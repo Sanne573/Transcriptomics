@@ -1,4 +1,4 @@
-# Immuunregulerend pathway MAPK verantwoordelijk voor Reumatoïde atritis
+# Afwijkende genexpressie in de immuunregulerende MAPK-pathway bij personen met reumatoïde artritis
 ## Structuur
 - `Data_RA_raw` - Hierin staat de ruwe data waarmee deze transcriptomics analyse is gedaan
 - `Data_beheer` - Hierin staat beschreven hoe de data is beheerd
@@ -10,7 +10,7 @@
 
 
 ## Introductie
-Reumatoïde artritis (RA) is een chronische auto-immuunziekte. Het afweersysteem ziet de gewrichten als lichaamsvreemd en valt ze aan. Hierdoor ontstaan ontstekingen in en rond de gewrichten. Vaak ontstaan deze ontstekingen in de pezen, slijmbeurzen of spieren, maar kunnen ook voorkomen in organen of andere weefsels buiten het gewricht (Reumatoïde Artritis (RA) | ReumaNederland, z.d.). De oorzaak van deze auto-immuunziekte is nog onbekend en hier wordt veel onderzoek naar gedaan. Momenteel is er bekend dat het geen erfelijke ziekte is. Wel zijn omgevingsfactoren belangrijk bij het ontstaan van RA (UMC Utrecht, z.d.). Vooral roken is een belangrijk risicofactor (Venken & Elewaut, 2025). Verder is er bekend dat bij Reumatoïde artritis er een ontregeling is in immuungerelateerde genen en pathways (Zhang et al., 2019). Ondanks deze resultaten is er naar Reumatoïde artritis nog veel onderzoek nodig. In dit onderzoek wordt, met behulp van transcriptomics, gekeken naar de expressie van genen in KEGG-pathways bij personen met Reumatoïde artritis. Hierbij is het doel de ziektemechanismen met de betrokken genen en pathways beter te analyseren en in kaart te brengen. 
+Reumatoïde artritis (RA) is een chronische auto-immuunziekte. Het afweersysteem ziet de gewrichten als lichaamsvreemd en valt ze aan. Hierdoor ontstaan ontstekingen in en rond de gewrichten. Vaak ontstaan deze ontstekingen in de pezen, slijmbeurzen of spieren, maar kunnen ook voorkomen in organen of andere weefsels buiten het gewricht (Reumatoïde Artritis (RA) | ReumaNederland, z.d.). De oorzaak van deze auto-immuunziekte is nog onbekend en hier wordt veel onderzoek naar gedaan. Momenteel is er bekend dat het geen erfelijke ziekte is. Wel zijn omgevingsfactoren belangrijk bij het ontstaan van RA (UMC Utrecht, z.d.). Vooral roken is een belangrijk risicofactor (Venken & Elewaut, 2025). Verder is er bekend dat bij Reumatoïde artritis er een ontregeling is in immuungerelateerde genen en pathways (Zhang et al., 2019). Ondanks deze resultaten is er naar Reumatoïde artritis nog veel onderzoek nodig. Er wordt in die onderzoek, met behulp van transcriptomics, gekeken naar de expressie van genen in KEGG-pathways bij personen met Reumatoïde atrits. Het doel van dit onderzoek is meer inzicht te krijgen in het ziektemechanisme van de auto-immuunziekte, door de betrokken genen en pathways in kaart te brengen en te analyseren.
 
 ## Methode
 
@@ -21,7 +21,7 @@ Reumatoïde artritis (RA) is een chronische auto-immuunziekte. Het afweersysteem
 *Figuur 1. Flowschema.*
 
 ### Data verkrijgen
-In dit onderzoek zijn 236 RNA sequencing synoviale biopten uit artikelen van Walsh et al. en Guo et al. gecombineerd tot 1 dataset. Voor het sequencen van het RNA is in beide artikelen Illumina gebruikt. De reads zijn geanalyseerd in R (R 4.5.3) doormiddel van een transcriptomics-analyse en opgeslagen in een [script](Script). 
+In dit onderzoek is de data van 8 RNA sequencing syvonale biopten uit een artikel van Platzer et al. gebruikt. Voor het sequencen van het RNA is Illumina gebruikt. De reads zijn geanalyseerd in R (R 4.5.3) doormiddel van een transcriptomics-analyse en opgeslagen in een [script](Script). 
 ### Primaire verwerking
 Als eerst is BiocManager versie 1.30.27 geïnstalleerd. Daarna zijn de reads gemapped tegen het [humane referentiegenoom versie hg38 (GRCh38)](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000001405.40/ ) met Rsubread versie 2.24.0 en opgeslagen in BAM-files. Waarnaar er, door het humane referentiegenoom versie hg38 (GRCh38) in Gene Transfer Format (GTF) en de BAM-files te vergelijken, een Count matrix gemaakt met Rsubread versie 2.24.0. Vervolgens is hiervan een differentiële expressie-analyse uitgevoerd met DESeq2 versie 1.50.2 en gevisualiseerd in een Volcanoplot met EnhancedVolcano versie 1.28.2.
 ### Gene Ontrology analyse
